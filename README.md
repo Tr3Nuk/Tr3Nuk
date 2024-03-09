@@ -1,16 +1,13 @@
 # Hello, I'm Jeff
 
 
-[Brief Introduction - Remove this afterwards]
-
-I am a consistent learner with a profound interest in technology and a dedication to solving complex problems.
+I am a lifelong seeker of knowledge with goals to help learn or create something new everyday.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity.
+My journey in computer science has led me to develop a passion for going through projects and documenting my progress.
 
-## Skills
+## Future Projects
 
 
 | Skill                                         | Associated Project         |
@@ -46,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
