@@ -1,7 +1,6 @@
 # Hello, I'm Jeff
 
-
-I am a lifelong seeker of knowledge with goals to help learn or create something new everyday.
+I am a lifelong with goals to help learn or create something new everyday.
 
 ## Objective
 
@@ -13,8 +12,10 @@ My journey in computer science has led me to develop a passion for going through
 | Project                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Malware Analysis Lab          | in-progress|
-| Honeypot                      | in-progress|
-| SoC Automation Analysis lab   | in-progress|
+| Honeypot                      | |
+| SoC Automation Analysis lab   | |
+| Workout App for phone   | |
+| CySA+ Certified   | |
 
 ## Certifications
 
@@ -28,7 +29,3 @@ My journey in computer science has led me to develop a passion for going through
 
 
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
